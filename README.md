@@ -1,6 +1,7 @@
 Olá! 
 
-Meu nome é Victor Santos, seja muito bem-vindo(a) ao meu repositório Github. 
+Meu nome é Victor Santos, seja muito bem-vindo(a) ao meu repositório Github.
+
 Atualmente curso bacharelado em Sistemas de Informação, pela Faculdade Impacta de Tecnologia (FIT).
 
 Durante 7 anos fui atleta de futebol profissional, com passagens por clubes do Brasil, Ilha de Malta, República Tcheca, Vietnã e México: https://www.youtube.com/watch?v=eAhDX5jOivs&t=2s 
